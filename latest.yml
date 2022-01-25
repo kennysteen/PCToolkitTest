@@ -1,8 +1,8 @@
-version: 1.12.0
+version: 1.13.0
 files:
-  - url: PrimaryCareToolkit Setup 1.12.0.exe
-    sha512: gNveuRpKPTah1dhLT9NiurzZ51gsHgWhyUt/K43E/w74WT5/VszOqrSjpMZrizb0qJr/fdwIxNsl6xvJ3ZWoBA==
-    size: 89395277
-path: PrimaryCareToolkit Setup 1.12.0.exe
-sha512: gNveuRpKPTah1dhLT9NiurzZ51gsHgWhyUt/K43E/w74WT5/VszOqrSjpMZrizb0qJr/fdwIxNsl6xvJ3ZWoBA==
-releaseDate: '2022-01-18T15:32:35.866Z'
+  - url: PrimaryCareToolkit-Setup-1.13.0.exe
+    sha512: UnIe5fKGQTBsRXYArblG66K1jo6o7kjbjvNol1grMrfKaVipd7FZqfAeafbK9QGSeb6wnIdLbnZmjwuGJ2bEbQ==
+    size: 89396830
+path: PrimaryCareToolkit-Setup-1.13.0.exe
+sha512: UnIe5fKGQTBsRXYArblG66K1jo6o7kjbjvNol1grMrfKaVipd7FZqfAeafbK9QGSeb6wnIdLbnZmjwuGJ2bEbQ==
+releaseDate: '2022-01-25T15:13:07.498Z'
